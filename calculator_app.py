@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Advanced Math Calculator", layout="wide")
-st.title("🧮 Advanced Math Calculator")
+st.title("🧮 Advanced Math Calculator by Mubashar Ul Hassan")
 
 menu = st.sidebar.selectbox("Choose Operation", ["Basic Math", "Solve Equation", "Calculus", "Plot Graph"])
 
